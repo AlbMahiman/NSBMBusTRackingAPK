@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613445797082",
+    "project_id": "nsbmbustrackingapk",
+    "storage_bucket": "nsbmbustrackingapk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613445797082:android:534ecc8e579bd8400e11e3",
+        "android_client_info": {
+          "package_name": "com.example.nsbmbustrackingapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613445797082-dnr55pecercstrsl5hpsu4k51ob91j1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBGCuDl-o5l_MBJ4jlhoraZ8AEgaHcRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613445797082-dnr55pecercstrsl5hpsu4k51ob91j1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
